@@ -1,1 +1,1 @@
-# Social_Media_Website
+Fully responsive for mobile and desktop views.Features: reels (wow), dashboard, search friends, create posts, dark/light mode.Media (pictures, videos) stored securely on cloudinary.Built with react.Js, node.Js, typescript, mongodb; hosted on render and mongodb atlas.<img width="1652" height="537" alt="image" src="https://github.com/user-attachments/assets/f93a36c9-d7cf-4de9-8f4e-c6bbc7e378a1" />
